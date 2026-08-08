@@ -1,0 +1,6 @@
+{
+  "name": "PyBuddy THCS - AI Agent Dạy Python",
+  "description": "AI Agent trợ lý dạy học Python chuyên biệt cho học sinh Trung học Cơ sở (Lớp 6 - Lớp 9). Tương tác hỏi đáp, đặt câu hỏi kiểm tra, chạy thử code Python thực tế và giải thích sinh động.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
